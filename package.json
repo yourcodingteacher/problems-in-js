@@ -1,0 +1,25 @@
+{
+  "name": "problems-in",
+  "version": "1.0.0",
+  "description": "This repository contains well-structured, in-depth JavaScript solutions to popular Leetcode problems — including **Big O analysis**, **clean code**, and **corresponding test files** using [Jest](https://jestjs.io/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:one": "node utils/run-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourcodingteacher/problems-in-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourcodingteacher/problems-in-js/issues"
+  },
+  "homepage": "https://github.com/yourcodingteacher/problems-in-js#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.5.3"
+  }
+}

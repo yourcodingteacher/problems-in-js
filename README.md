@@ -112,7 +112,7 @@ This uses the helper script: `utils/run-test.js`.
 
 ## 📚 Related Projects
 
-In my [YouTube channel](https://www.youtube.com/), I solve these problems in detail and apply many of them to real-world **ReactJS projects**.
+In my [YouTube channel](https://www.youtube.com/@yourcodingteacher?sub_confirmation=1), I solve these problems in detail and apply many of them to real-world **ReactJS projects**.
 
 ---
 
